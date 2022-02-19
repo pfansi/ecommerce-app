@@ -29,13 +29,16 @@ Application video [demo]()
 
 This project required to build a Node.js ecpommerce back end application that will have the same fundanmental achitecture such as shopify or Woocommerce.
 The ecommerce application will be link to a Mysql database.
-It will use the the Express.js API and Sequelize to to interect with the database.
+It will use the the Express.js API and Sequelize to to interect with the database
 
 ## pseudo code description
 
 ## Build process
 
-- created a repository and a readme.md file for the project.
+- created a repository and a readme.md file for the project
+- created connections to the database and env file filed
+- connected and created a database ecommerce_db
+- installed all the necessary dependency to run the app in Node.js
 
 ## Installation:
 
