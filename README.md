@@ -39,6 +39,7 @@ It will use the the Express.js API and Sequelize to to interect with the databas
 - created connections to the database and env file filed
 - connected and created a database ecommerce_db
 - installed all the necessary dependency to run the app in Node.js
+- created model file and the relationship between table model
 
 ## Installation:
 
