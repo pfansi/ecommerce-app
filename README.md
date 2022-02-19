@@ -35,7 +35,7 @@ It will use the the Express.js API and Sequelize to to interect with the databas
 
 ## Build process
 
-- created a repository and a readme.md file for the project
+- created a repository and a readme.md file for the project.
 
 ## Installation:
 
