@@ -23,7 +23,7 @@ I created a git repository folder that will host the finished project. The Repos
 
 ## Link to the walktrough video
 
-Application video [demo]()
+Application video [demo](https://drive.google.com/file/d/1NVzOwZAUUZYEC7-LWJ3extXBNmCoQ2hG/view?usp=sharing)
 
 ## Description:
 
