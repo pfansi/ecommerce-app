@@ -27,9 +27,9 @@ Application video [demo]()
 
 ## Description:
 
-This project required to build a Node.js ecpommerce back end application that will have the same fundanmental achitecture such as shopify or Woocommerce.
+This project required to build a Node.js ecommerce back end application that will have the same fundanmental achitecture such as shopify or Woocommerce.
 The ecommerce application will be link to a Mysql database.
-It will use the the Express.js API and Sequelize to to interect with the database
+It will use the the Express.js API and Sequelize to intereact with the database.
 
 ## pseudo code description
 
@@ -87,7 +87,7 @@ Run this command to run the test
 
 ## Contributing:
 
-Project is opened for contributions.
+Project is open for contributions.
 
 ## Questions:
 
@@ -97,8 +97,5 @@ Project is opened for contributions.
 
 ## Screenshots
 
-- Total test executed screenshot. br/
-  ![screenshot]()
-
-- Screenshot of the
-  ![screenshot]()
+- Demonstration of how to create the schema from the MySQL shell.
+  ![screenshot](./assets/images/seed_and%20_tables.PNG)
